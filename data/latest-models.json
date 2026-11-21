@@ -1,0 +1,12 @@
+{
+  "document_intelligence_ocr": {
+    "model_path": "document-intelligence-model-v6",
+    "backup_data_path": "data/document-intelligence-training-pairs-backup-v6.jsonl",
+    "labels_path": "data/document-intelligence-labels-v2.jsonl"
+  },
+  "document_intelligence_expansion": {
+    "model_path": "document-intelligence-expansion-model-v1",
+    "backup_data_path": "data/document-intelligence-expansion-pairs-backup-v1.jsonl",
+    "labels_path": "data/document-intelligence-expansion-labels-v1.jsonl"
+  }
+}
